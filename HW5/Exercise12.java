@@ -18,7 +18,6 @@ public class Exercise12 {
 
 
         String findName = "Озеров";
-        // String findName = "Поздняков";
         System.out.printf("\nРезультат проверки телефонных номеров по фамилии %s:\n", findName);
         List<String> listPhones = phoneNumbers.get(findName);
         if (listPhones == null) {
