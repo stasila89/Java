@@ -36,6 +36,7 @@ public class Menu {
             System.out.println("11. Задача 3.");
             System.out.println(" Домашнее задание 5");
             System.out.println("12. Задача 1.");
+            System.out.println("13. Итоговая работа.");
             System.out.println("---");
             System.out.println("14. Завершение работы приложения");
             int num = Utilities.inputNaturelNumber("Введите номер задания: ");
